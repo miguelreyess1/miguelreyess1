@@ -25,14 +25,17 @@
 ###
 
 <br clear="both">
-
 <h4 align="left">Connect with me:</h4>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-reyes-g%C3%B3mez-66a170293/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <img width="14" />
+  <a href="mailto:tuemail@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" height="42" alt="gmail logo" />
   </a>
 </div>
 
