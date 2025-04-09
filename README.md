@@ -35,7 +35,7 @@
   </a>
   <img width="14" />
   <a href="mailto:tuemail@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" height="42" alt="gmail logo" />
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="42" height="42" alt="email logo" />
   </a>
 </div>
 
