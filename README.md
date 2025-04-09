@@ -1,4 +1,4 @@
-<h4 align="center">A passionate FullStack developer</h4>
+<h4 align="center">A passionate Fullstack developer</h4>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on multiple web applications projects<br><br>- 📚 I'm currently learning React<br><br>- ⏳ In my free time, I explore new technologies and work on personal projects</p>
+<p align="left">- 🔭 I’m working on multiple web applications projects<br><br>- 📚 I'm currently learning React<br><br>- ⏳ In my free time, I explore new technologies and work on personal projects<br><br>- 👨‍💻 Looking for opportunities to grow as a developer</p>
 
 ###
 
