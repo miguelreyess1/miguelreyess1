@@ -31,7 +31,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-reyes-g%C3%B3mez-66a170293/" target="_blank">
-    <img src=" https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="52" height="40" alt="linkedin logo" />
   </a>
   <img width="14" />
   <a href="mailto:tuemail@gmail.com" target="_blank">
