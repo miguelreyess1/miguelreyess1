@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<h4 align="left">Languages and Tools:</h4>
+<h4>Languages and Tools:</h4>
 
 ###
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="49" alt="html5 logo" />
