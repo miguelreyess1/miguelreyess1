@@ -34,7 +34,7 @@
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="49" height="49" alt="linkedin logo" />
   </a>
   <img width="14" />
-  <a href="mailto:tuemail@gmail.com" target="_blank">
+  <a href="mailto:miguel.reyesgomez1@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="49" height="49" alt="email logo" />
   </a>
 </div>
