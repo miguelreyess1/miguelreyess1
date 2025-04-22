@@ -86,7 +86,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miguelreyess1&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelreyess1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=swift&hide_border=false&order=2" height="170" alt="languages graph" />
-  <img src="https://raw.githubusercontent.com/miguelreyess1/github-stats/master/generated/languages.svg#gh-light-mode-only" height="170" alt="custom language stats" />
 </div>
 
 ###
